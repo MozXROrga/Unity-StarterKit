@@ -1,0 +1,3 @@
+[submodule "StarterKit/Packages/MoxFramework"]
+	path = StarterKit/Packages/MoxFramework
+	url = ../Unity-Framework.git
