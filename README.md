@@ -15,7 +15,7 @@ It includes sample scenes to show how the MozXR Framework works and a starter sc
 
 ## Setup
 
-If you checkout the repository via git (rather than downloading a release package) you need to **download additional binaries**, available in the [release section](https://github.com/ArsElectronicaFuturelab/mozXR-Unity-StarterKit/tags).
+If you checkout the repository via git (rather than downloading a release package) you need to **download additional binaries**, available in the [release section](https://github.com/MozXROrga/Unity-StarterKit/tags).
 
 Download and unpack the latest binary package. The package contains two folders, **Pharus** and **UnityEndpoint**.
 
